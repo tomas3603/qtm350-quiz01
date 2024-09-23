@@ -17,3 +17,4 @@ touch .gitignore
 echo "temp/" > .gitignore && echo "dataset0?.csv" >> .gitignore
 cat .gitignore
 git add . && git commit -m "Add .gitignore file"
+git pull https://github.com/danilofreire/qtm350-quiz01.git
