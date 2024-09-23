@@ -1,0 +1,5 @@
+git clone https://github.com/tomas3603/qtm350-quiz01
+cd qtm350-quiz01
+touch commands.txt
+git branch feature-update
+git checkout feature-update
