@@ -46,4 +46,12 @@ dataset0?.csv
 24. Delete the `feature-update` branch from your local machine.
 25. Delete the `feature-update` branch from your forked repository on GitHub using the command line.
 
+## Bonus Questions
+
+These bonus questions are designed to test advanced Git and GitHub skills. Attempt them only after completing the main assignment tasks and if you still have time (and like challenges). Document all steps and commands used.
+
+1. Send a pull request with your changes to the original repository (this one). Document each step of the process.
+2. Perform an interactive rebase to squash the last two commits into a single commit.
+3. Implement a pre-commit hook that prevents commits if the `README.md` file is not updated. Provide the bash script for the hook and describe how to set it up. (This one is quite challenging.)
+
 Best of luck!
