@@ -12,6 +12,9 @@ changes made, and the `commands.txt` file should contain a comprehensive list
 of all commands used throughout the project. If needed to save time, you may
 copy and paste the commands directly into the `commands.txt` file.
 
+Please send the link to your repository as a message on Canvas in the "Assignments" 
+tab. There is a link for Quiz 01.
+
 ### Tasks
 
 1. Fork this repository to your GitHub account.
